@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Ai & Ml @ VIT BHOPAL & taking CS50 
 - 📫 How to reach me https://www.linkedin.com/in/aniket-karkhelikar-68651322a/
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aniketkarkhelikar)](https://git.io/streak-stats)
 
 <!---
 aniketkarkhelikar/aniketkarkhelikar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
