@@ -105,6 +105,14 @@ I am an AI/ML Engineering student exploring the intersection of advanced mathema
 - "MakeMailsGreatAgain" – because manual inbox zero is impossible. 
 
 ---
+### [autogit](https://github.com/aniketkarkhelikar/autogit)
+**Secure Git + SSH Manager for Shared PCs** | `Bash` `Git` `SSH`
+
+- Built a stateless workflow manager for safely using Git on shared/lab computers.
+- Generates temporary SSH keys, manages authentication, and securely cleans all traces after sessions.
+- Features interactive auto-commit/push with status tracking to prevent data loss.
+
+---
 
 ### [3D Simulation Suite](https://github.com/aniketkarkhelikar/Discrete_assignment)
 **Interactive Mathematical Modeling** | `Python` `Jupyter` `3D Graphics`
