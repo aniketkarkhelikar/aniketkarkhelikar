@@ -64,7 +64,7 @@ I am an AI/ML Engineering student exploring the intersection of advanced mathema
 
 ## Featured Projects
 
-### Web Master Terminal
+### [Web Master Terminal](https://github.com/aniketkarkhelikar/web_terminal)
 **Centralized Remote Terminal Controller** | `Node.js` `Socket.io` `xterm.js` `Express`
 
 - Built a centralized web interface to control multiple remote PCs/servers via a browser-based terminal. 
