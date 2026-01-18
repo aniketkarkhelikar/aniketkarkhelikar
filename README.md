@@ -82,7 +82,7 @@ I am an AI/ML Engineering student exploring the intersection of advanced mathema
 
 ---
 
-### [Distributed RAG Pipeline](https://github.com/aniketkarkhelikar/rag_tests)
+### [Distributed RAG Pipeline](https://github.com/aniketkarkhelikar/rag_tests) PRIVATE
 **Scalable Retrieval Systems** | `Ray` `Qdrant` `LangChain`
 
 - Advanced experiments in Retrieval-Augmented Generation.
