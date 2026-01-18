@@ -77,7 +77,6 @@ I am an AI/ML Engineering student exploring the intersection of advanced mathema
 **Blockchain-based Food Supply Chain Traceability** | `Solidity` `Smart Contracts` `React` `Web3`
 
 - End-to-end supply chain tracking using the Ethereum blockchain to ensure food safety transparency.
-- Full-stack implementation with verifiable smart contracts.
 - Pending real-world industry insights for next phase of development. 
 
 ---
@@ -111,14 +110,6 @@ I am an AI/ML Engineering student exploring the intersection of advanced mathema
 - Built a stateless workflow manager for safely using Git on shared/lab computers.
 - Generates temporary SSH keys, manages authentication, and securely cleans all traces after sessions.
 - Features interactive auto-commit/push with status tracking to prevent data loss.
-
----
-
-### [3D Simulation Suite](https://github.com/aniketkarkhelikar/Discrete_assignment)
-**Interactive Mathematical Modeling** | `Python` `Jupyter` `3D Graphics`
-
-- Visualizing discrete math concepts through continuously rotating 3D cube simulations. 
-- Bridging the gap between mathematical theory and graphical rendering. 
 
 ---
 
